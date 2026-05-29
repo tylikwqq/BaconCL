@@ -4,13 +4,19 @@
     "author": "abdul08",
     "creators": [],
     "verifier": "abdul08",
-    "verification": "",
+    "verification": "https://youtu.be/e4NDJd6CAlg",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
               {
             "user": "euphoria",
             "link": "https://youtu.be/e4NDJd6CAlg",
+            "percent": 100,
+            "hz": 360
+        },
+              {
+            "user": "Azura16",
+            "link": "https://youtu.be/NMnSfFtIfe8",
             "percent": 100,
             "hz": 360
         }
