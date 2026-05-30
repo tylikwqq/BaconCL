@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "euphoria",
+            "link": "https://youtu.be/-Y85J3CgqyI",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
