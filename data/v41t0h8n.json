@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Arrmor",
+            "link": "https://youtu.be/IOrX73_q4qs",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
